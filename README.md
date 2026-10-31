@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="40%" src="https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif">
 
-<img align="auto" alt="Coding" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanscarmo&microsoft-dark">
+<img align="auto" alt="Coding" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=renanscarmo&theme=microsoft-dark">
 
 <br clear="both">
 
