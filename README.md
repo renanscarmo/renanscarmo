@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="center">Tecnologias</h3>
+<h3 align="center">studying technologies</h3>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41">
